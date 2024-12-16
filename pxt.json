@@ -1,0 +1,25 @@
+{
+    "name": "wall_o 2.0",
+    "description": "",
+    "dependencies": {
+        "circuit-playground": "*",
+        "crickit": "github:adafruit/pxt-crickit#v0.0.32"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.8",
+        "targetId": "adafruit"
+    },
+    "supportedTargets": [
+        "adafruit"
+    ],
+    "preferredEditor": "blocksprj"
+}
